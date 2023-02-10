@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+    background-color: lightgray;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 50px;
+  }
+  
+  label, input[type="text"] {
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
+  input[type="submit"] {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+  }
